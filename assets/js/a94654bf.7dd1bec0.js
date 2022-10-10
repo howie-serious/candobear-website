@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[282],{9865:e=>{e.exports=JSON.parse('[{"label":"hello","permalink":"/candobear-website/blog/tags/hello","count":1},{"label":"candobear","permalink":"/candobear-website/blog/tags/candobear","count":1}]')}}]);

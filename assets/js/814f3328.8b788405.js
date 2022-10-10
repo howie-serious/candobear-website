@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83d\ude4b\u200d\u2642\ufe0f hello, bears.","permalink":"/candobear-website/blog/hello-bears"}]}')}}]);
